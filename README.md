@@ -1,3 +1,5 @@
+# the code is a clone of [shamilmamedov/dynamic_calibration](https://github.com/shamilmamedov/dynamic_calibration/tree/master),mainly for personal as a reference. You can go there to view the source program.
+--------------------------------------------------------------
 # Dynamic calibration (dynamic parameter indentification) for rigid body manipulator
 The code was developed in the framework of the human-robot interaction project at [Innopolis University](https://innopolis.university/en/). One of the outputs of the project was a paper -- [Practical Aspects of Model-Based Collision Detection](https://www.frontiersin.org/articles/10.3389/frobt.2020.571574/full), where we provide some review of the recent developments in the field of dynamic calibration, outline the steps required for dynamic parameter identification and provide many useful references. If you have questions from theoretical perspective, please check the paper first. If find paper and code useful, consider citing it in your own papers.
 
